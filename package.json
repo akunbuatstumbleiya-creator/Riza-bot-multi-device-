@@ -1,0 +1,39 @@
+{
+  "name": "@riza/baileys",
+  "version": "1.1.0",
+  "description": "Riza Baileys - lapisan Baileys siap pakai untuk bot WhatsApp Multi Device",
+  "type": "module",
+  "main": "index.js",
+  "exports": {
+    ".": "./index.js"
+  },
+  "files": [
+    "index.js",
+    "lib",
+    "examples",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "whatsapp",
+    "baileys",
+    "bot",
+    "md",
+    "riza"
+  ],
+  "author": "Riza",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "pino": "^9.0.0",
+    "wa-sticker-formatter": "^4.4.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akunbuatstumbleiya-creator/Riza-bot-multi-device-.git"
+  },
+  "homepage": "https://github.com/akunbuatstumbleiya-creator/Riza-bot-multi-device-"
+}
