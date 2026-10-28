@@ -27,7 +27,7 @@
   "author": "Riza",
   "license": "MIT",
   "dependencies": {
-    "@whiskeysockets/baileys": "latest",
+    "@whiskeysockets/baileys": "7.0.0-rc14",
     "pino": "^9.0.0",
     "wa-sticker-formatter": "^4.4.4"
   },
